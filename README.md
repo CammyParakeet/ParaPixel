@@ -41,7 +41,7 @@ Contributions are always welcome! Here's how you can help:
 1. **Fork the Repository**: Click the "Fork" button at the top right of this page to create your own copy of the repository.
 2. **Clone Your Fork**: Use the following command to clone your fork locally:
    ```bash
-   git clone https://github.com/CammyParakeet/ParaPixel.git
+   git clone https://github.com/<your-username>/<fork-name>.git
    ```
 3. **Make Changes**: Implement your changes or add new features to the project.
 4. **Submit a Pull Request**: Push your changes to your forked repository and submit a pull request to the main repository.
