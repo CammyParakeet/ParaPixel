@@ -5,10 +5,12 @@ A simple and intuitive web-based pixel art editor built with HTML, CSS, and Java
 ## Features
 
 - **Easy-to-Use Interface**: Intuitive design for effortless pixel art creation.
-- **Customizable Canvas**: Define the canvas size to fit your art style.
+- **Customizable Canvas**: Define the canvas size to fit your art style. (SQUARE LOCKED CURRENTLY)
+- **Resizeable Brush**: Change the brush size to draw finer details or fill larger areas.
+- **Shading Mode**: Apply lighter or darker tones of your selected color for highlights and shadows.
 - **Color Palette**: Choose from a wide range of colors for your creations.
-- **Save and Export**: Save your work locally as an image file.
-- **Responsive Design**: Works seamlessly on desktop and mobile devices.
+- **Save and Export**: Save your work locally as an image file. (COMING SOON)
+- **Responsive Design**: Works seamlessly on desktop and mobile devices. (COMING SOON)
 
 ## Live Demo
 
@@ -55,5 +57,6 @@ This project is a work in progress (WIP). Below are some known issues and planne
 - **Slow DPI Response**: Rapid mouse movements may result in gaps in lines when drawing.
 - **Mobile Compatibility**: The website is not yet optimized for mobile devices.
 - **Exporting/Importing**: Exporting and importing pixel art is not yet implemented.
+- **More Customizations**: Custom Brushes, Unlocked Dimensions, Shape Tools
 
 Stay tuned for updates! If you'd like to contribute or have suggestions, feel free to open an issue or submit a pull request.
