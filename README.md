@@ -45,3 +45,15 @@ Contributions are always welcome! Here's how you can help:
 4. **Submit a Pull Request**: Push your changes to your forked repository and submit a pull request to the main repository.
 
 If you find any bugs or have suggestions, please open an issue in the repository. Let's make this project better together!
+
+## Project Status: Work in Progress
+
+This project is a work in progress (WIP). Below are some known issues and planned improvements:
+
+### Known Issues / To-Do
+
+- **Slow DPI Response**: Rapid mouse movements may result in gaps in lines when drawing.
+- **Mobile Compatibility**: The website is not yet optimized for mobile devices.
+- **Exporting/Importing**: Exporting and importing pixel art is not yet implemented.
+
+Stay tuned for updates! If you'd like to contribute or have suggestions, feel free to open an issue or submit a pull request.
